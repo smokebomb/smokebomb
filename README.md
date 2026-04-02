@@ -12,6 +12,6 @@
 
 <p align="center"
 
- ⠀ [rentry.co/](https://rentry.co/mylittlehero)⠀ ⠀ [carrd.co/](https://male1pregnancy.carrd.co/) ⠀ ⠀[ata.org/](https://dontstoplovinme.atabook.org)
+ ⠀ [rentry.co/](https://rentry.co/mylittlehero)⠀ ⠀ [/carrd.co](https://male1pregnancy.carrd.co/) ⠀ ⠀[ata.org/](https://dontstoplovinme.atabook.org)
 
 </p>
