@@ -8,7 +8,7 @@
 
 <div id="header" align="center">
 
-<img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8392.PNG" width="500">
+<img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8392.PNG" width="600">
 
 <p align="center"
 
