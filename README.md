@@ -12,6 +12,6 @@
 
 <p align="center"
 
- ⠀ [rentry.co/](https://rentry.co/yeon_sieun)⠀ ⠀ [/carrd.co](https://male1pregnancy.carrd.co/) ⠀ ⠀[ata.org/](https://zombie-picnic.atabook.org)
+ ⠀ [rentry](https://rentry.co/yeon_sieun)⠀ ⠀ [carrd](https://male1pregnancy.carrd.co/) ⠀ ⠀[ata](https://zombie-picnic.atabook.org)
 
 </p>
