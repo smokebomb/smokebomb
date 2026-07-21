@@ -23,4 +23,4 @@ $\small\color{#b2ab92}{\textsf{, 　Idéntica}}$ $\small\color{#5f6856}{\textsf{
   <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8774.PNG" alt="rentry" width="100">
 </a>
 
- 　 ![](https://komarev.com/ghpvc/?username=EVILRUSSIAN&label=^__^&color=1c180f&style=plastic&base=100)
+ 　 　![](https://komarev.com/ghpvc/?username=EVILRUSSIAN&label=^__^&color=1c180f&style=plastic&base=100)
