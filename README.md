@@ -15,14 +15,14 @@ $\small\color{#b2ab92}{\textsf{, 　Idéntica}}$ $\small\color{#5f6856}{\textsf{
  $\small\color{#b2ab92}{\textsf{' El mío}}$ $\small\color{#5f6856}{\textsf{݁es de}}$ $\small\color{#303e33}{\textsf{agonía ۫ ׅ...}}$
 
 <a href="https://rentry.co/yeon_sieun">
-  <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8770.PNG" alt="rentry" width="110">
+  <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8776.PNG" alt="rentry" width="80">
 </a> 
 
 <a href="https://male1pregnancy.carrd.co/">
-  <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8772.PNG" alt="rentry" width="110">
+  <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8775.PNG" alt="rentry" width="90">
 </a>
 
 
  　  <a href="https://zombie-picnic.atabook.org">
-  <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8773.PNG" alt="rentry" width="130">
+  <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8774.PNG" alt="rentry" width="100">
 </a>
