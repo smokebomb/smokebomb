@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  
-![](https://komarev.com/ghpvc/?username=EVILRUSSIAN&label=^__^&color=1c180f&style=plastic&base=100)
-
- 　  　  <img align="left" width="350px" salt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8765.PNG" />
+<img align="left" width="350px" salt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8765.PNG" />
 
  </p>
 
@@ -26,3 +22,5 @@ $\small\color{#b2ab92}{\textsf{, 　Idéntica}}$ $\small\color{#5f6856}{\textsf{
  　  <a href="https://zombie-picnic.atabook.org">
   <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8774.PNG" alt="rentry" width="100">
 </a>
+
+ 　 ![](https://komarev.com/ghpvc/?username=EVILRUSSIAN&label=^__^&color=1c180f&style=plastic&base=100)
