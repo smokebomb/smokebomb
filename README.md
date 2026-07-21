@@ -1,17 +1,28 @@
 <div id="header" align="center">
   
-![](https://komarev.com/ghpvc/?username=EVILRUSSIAN&label=^__^&color=202225&style=plastic&base=100)
+![](https://komarev.com/ghpvc/?username=EVILRUSSIAN&label=^__^&color=1c180f&style=plastic&base=100)
 
-<p align="center">
-  
-  <img src="https://i.postimg.cc/pdjFtVG0/d85.png"> <img src="https://64.media.tumblr.com/e5ae7344cca7a32a6e435a0670b36a17/f06d09507e506cb1-8f/s250x400/d173a5f62108e5ed3d0a0ed961f675efa62e8ada.gifv"><img src="https://64.media.tumblr.com/a2a7bebcb00171873483457743b40037/79d8b316934d24c3-e7/s100x200/fad681e9e223de88b796831758a1c28e3596b789.pnj"> <img src="https://64.media.tumblr.com/df2a61ca87a3b517930a6df9053b2d87/473928ea48888009-e5/s100x200/0f9dea48de823e46b58b96710c3ec84ea762ce0f.gifv"> <img src="https://64.media.tumblr.com/698abcbe7957fe093c00e0d6a0bb69da/08d67859104bbada-7a/s100x200/76cb1178c3c8e2ce8101296b1dde2ada7b32513f.pnj">
+ <img align="left" width="370px" salt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8765.PNG" />
 
-<div id="header" align="center">
+ </p>
 
-<img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8392.PNG" width="600">
+ 　 $\small\color{#b2ab92}{\textsf{Es}}$ $\small\color{#5f6856}{\textsf{de}}$ $\small\color{#303e33}{\textsf{anatomía}}$ $\small\color{#5f6856}{\textsf{.ᐟ}}$
 
-<p align="center"
+$\small\color{#b2ab92}{\textsf{, 　Idéntica}}$ $\small\color{#5f6856}{\textsf{a la 𓂃}}$ $\small\color{#303e33}{\textsf{mía}}$
 
- ⠀ [rentry](https://rentry.co/yeon_sieun)⠀ ⠀ [carrd](https://male1pregnancy.carrd.co/) ⠀ ⠀[ata](https://zombie-picnic.atabook.org)
+　 $\small\color{#b2ab92}{\textsf{Su rostro}}$ $\small\color{#5f6856}{\textsf{݁es de}}$ $\small\color{#303e33}{\textsf{alegría}}$ $\small\color{#5f6856}{\textsf{݁🗡}}$
 
-</p>
+ $\small\color{#b2ab92}{\textsf{' El mío}}$ $\small\color{#5f6856}{\textsf{݁es de}}$ $\small\color{#303e33}{\textsf{agonía ۫ ׅ...}}$
+
+<a href="https://rentry.co/yeon_sieun">
+  <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8770.PNG" alt="rentry" width="110">
+</a> 
+
+<a href="https://male1pregnancy.carrd.co/">
+  <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8772.PNG" alt="rentry" width="110">
+</a>
+
+
+ 　  <a href="https://zombie-picnic.atabook.org">
+  <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8773.PNG" alt="rentry" width="130">
+</a>
