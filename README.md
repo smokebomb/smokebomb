@@ -2,7 +2,7 @@
   
 ![](https://komarev.com/ghpvc/?username=EVILRUSSIAN&label=^__^&color=1c180f&style=plastic&base=100)
 
- <img align="left" width="350px" salt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8765.PNG" />
+ 　  　  <img align="left" width="350px" salt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8765.PNG" />
 
  </p>
 
