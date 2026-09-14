@@ -34,7 +34,7 @@
       <td>
         <details>
           <summary><sub>𝘤𝘶𝘵𝘦 𝘣𝘯𝘯𝘶𝘪𝘦𝘴</summary>
-  <a href="https://github.com/louis-loui"><sub>louis</a> <a href="https://github.com/trojan-bait"><sub>sam</a> <a href="https://github.com/1V-HATER"><sub>jay</a> <a href="https://github.com/scrsonmythighst"><sub>rin</a> <a href="https://github.com/less-cute"><sub>miriel</a> <br> <a href="https://github.com/elisxne"><sub>tux</a> <a href="https://github.com/cheese-D1SH"><sub>cheese</a> <a href="https://github.com/cirrusaa"><sub>cirrusa</a><br>
+  <a href="https://github.com/louis-loui"><sub>louis</a> <a href="https://github.com/trojan-bait"><sub>sam</a> <a href="https://github.com/1V-HATER"><sub>jay</a> <a href="https://github.com/scrsonmythighs"><sub>rin</a> <a href="https://github.com/less-cute"><sub>miriel</a> <br> <a href="https://github.com/elisxne"><sub>tux</a> <a href="https://github.com/cheese-D1SH"><sub>cheese</a> <a href="https://github.com/cirrusaa"><sub>cirrusa</a><br>
         </details>
       </td>
     </tr>
